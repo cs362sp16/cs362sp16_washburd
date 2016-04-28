@@ -1,0 +1,12 @@
+FAILED ASSERTION: Duplicate card in setup, should fail
+FAILED ASSERTION: I should be allowed to play with a lot of people!
+5
+Correct number of initial cards
+Correct initial player
+Card count works
+6
+Correct Village behaviour
+8
+FAILURE: Incorrect Adventurer behaviour
+6
+Correct Great Hall behaviour

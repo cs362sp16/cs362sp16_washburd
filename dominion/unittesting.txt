@@ -1,0 +1,1 @@
+I found the bugs I inserted into Smithy, but I also found that Adventurer caused for additional card draw.  The dominion.c functions I tested seemed to all be in working order, so at least the back-end seems stable enough.
