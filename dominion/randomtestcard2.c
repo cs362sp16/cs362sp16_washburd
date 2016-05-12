@@ -11,7 +11,7 @@ int main(){
 	int k[10] = {smithy,adventurer,gardens,embargo,cutpurse,mine,ambassador,
 		outpost,baron,tribute};
 	
-	int tests, i, handCount, deckCount, player;
+	int tests, i, handCount, deckCount, numActions, player;
 	
 	tests = 2048;  //Number of loops through
 	player = 0;
@@ -21,19 +21,21 @@ int main(){
 		
 		g.handCount[player] = rand()%50;
 		g.deckCount[player] = rand()%50;
+		g.numActions = rand()%50;
 		
 		handCount = g.handCount[player];
 		deckCount = g.deckCount[player];
+		numActions = g.numActions;
 		
-		addCardToHand(player, 13, &g);
+		addCardToHand(player, 14, &g);
 		playCard(handCount, 0, 0, 0, &g);
 		
-		if(g.handCount[player] == handCount+3){
+		if(g.handCount[player] == handCount+1 && g.deckCount[player] == deckCount-1){
 			printf("%d\n", i);
 		}
 		
-		if(g.deckCount[player] == deckCount-3){
-			printf("%d\n", i);
+		if(g.numActions == numActions+1){
+			printf("%d\n", numActions);
 		}
 		
 	}
