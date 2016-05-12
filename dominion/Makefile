@@ -26,6 +26,9 @@ test: dominion.o unittest1.c unittest2.c unittest3.c unittest4.c cardtest1.c car
 	gcc -o cardtest4 cardtest4.c -g dominion.o rngs.o interface.o $(CFLAGS)
 	gcc -o test.exe tester.c
 
+random: dominion.o randomtest.c randomtestcard1.c
+	gcc -o random1 randomtestcard1.c -g dominion.o rngs.o interface.o $(CFLAGS)
+
 all: playdom player
 
 clean:
