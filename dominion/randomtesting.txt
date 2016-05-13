@@ -1,0 +1,5 @@
+First off, I was actually confsed for the longest time working on this because I thought I was developing something that generated tests randomly within the program.  I am so glad it's actually just giving random inputs and having it run repeatedly.
+
+I managed to get 100% code coverage on all 3 of the cards I tested, Adventurer included.  Of course, Smithy and Village are both incredibly simple cards to run, being that they only draw cards and increment the number of possible plays.  Adventurer was the most complicated, but I managed to get it to work as intended by manipulating the size of the deck to random values, so it has to shuffle if run enough times.  You can get 100% coverage on the first 2 cards with a trivial amount of executions, and Adventurer is covered by only a few hundred runs.  Running this for a full minute should all but garintee 100% coverage.
+
+Compared to my unit tests, I feel these tests are much more able to detect when the operations break and fail.  My gcov results reflect that as well.  However, unit tests can detect simple errors before it gets too far, allowing me to detect the typos I threw in to a couple functions.

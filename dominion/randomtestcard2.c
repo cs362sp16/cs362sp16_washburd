@@ -4,7 +4,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int main(){
+int main(int argc, char **argv){
+	
+	srand(atoi(argv[0]));
 	
 	struct gameState g;
 	
@@ -29,14 +31,6 @@ int main(){
 		
 		addCardToHand(player, 14, &g);
 		playCard(handCount, 0, 0, 0, &g);
-		
-		if(g.handCount[player] == handCount+1 && g.deckCount[player] == deckCount-1){
-			printf("%d\n", i);
-		}
-		
-		if(g.numActions == numActions+1){
-			printf("%d\n", numActions);
-		}
 		
 	}
 	

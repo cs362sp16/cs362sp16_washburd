@@ -26,11 +26,13 @@ test: dominion.o unittest1.c unittest2.c unittest3.c unittest4.c cardtest1.c car
 	gcc -o cardtest4 cardtest4.c -g dominion.o rngs.o interface.o $(CFLAGS)
 	gcc -o test.exe tester.c
 
-random: dominion.o randomtest.c randomtestcard1.c
+random: dominion.o interface.o randomtest.c randomtestcard1.c randomtestcard2.c randomtestadventurer.c
 	gcc -o random1 randomtestcard1.c -g dominion.o rngs.o interface.o $(CFLAGS)
 	gcc -o random2 randomtestcard2.c -g dominion.o rngs.o interface.o $(CFLAGS)
+	gcc -o adventurerrandom randomtestadventurer.c -g dominion.o rngs.o interface.o $(CFLAGS)
+	sh random_script.sh
 
 all: playdom player
 
 clean:
-	rm -f *.o playdom.exe playdom test.exe test player unittest1 unittest2 unittest3 unittest4 cardtest1 cardtest2 cardtest3 cardtest4 player.exe random1 random2 testInit testInit.exe *.gcov *.gcda *.gcno *.so *.a *.dSYM
+	rm -f *.o playdom.exe playdom test.exe test player unittest1 unittest2 unittest3 unittest4 cardtest1 cardtest2 cardtest3 cardtest4 player.exe random1 random2 testInit testInit.exe *.gcov *.gcda *.gcno *.so *.a *.dSYM *.out

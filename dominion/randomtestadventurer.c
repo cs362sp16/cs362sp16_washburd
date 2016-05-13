@@ -27,7 +27,7 @@ int main(int argc, char **argv){
 		handCount = g.handCount[player];
 		deckCount = g.deckCount[player];
 		
-		addCardToHand(player, 13, &g);
+		addCardToHand(player, 7, &g);
 		playCard(handCount, 0, 0, 0, &g);
 		
 	}
