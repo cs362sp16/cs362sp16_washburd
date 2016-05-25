@@ -32,6 +32,11 @@ random: dominion.o interface.o randomtest.c randomtestcard1.c randomtestcard2.c 
 	gcc -o adventurerrandom randomtestadventurer.c -g dominion.o rngs.o interface.o $(CFLAGS)
 	sh random_script.sh
 
+tester: dominion.o randomtester.c
+	gcc -o testdominion randomtester.c -g dominion.o rngs.o $(CFLAGS)
+	./testdominion > temp
+	testdominion 42 > testdominion.out
+	
 all: playdom player
 
 clean:
