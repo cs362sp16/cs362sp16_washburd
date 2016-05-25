@@ -37,6 +37,9 @@ tester: dominion.o randomtester.c
 	testdominion 42 > test.tmp
 	gcov dominion.c -f > testdominion.out
 	
+comparison: comparison.c
+	gcc comparison.c -o comparison
+	
 all: playdom player
 
 clean:
