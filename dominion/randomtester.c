@@ -88,8 +88,12 @@ int main (int argc, char** argv) {
 	
 	printf("Player %d\n", active);
 	
+	i = 0;
 	while(p->numActions > 0){
 		int playing = rand()%p->handCount[active]+1;
+		if(i > 100){
+			playing = p->handCount[active];
+		}
 		if(playing == p->handCount[active]){	//Chance to stop playing cards early
 			printf("Stop playing cards early\n");
 			break;
@@ -99,10 +103,15 @@ int main (int argc, char** argv) {
 				printf("Playing %s\n", card_name(handCard(playing,p)));
 			}
 		}
+		i++;
 	}
 	
 	while(p->numBuys > 0){
 		int action = rand()%18;
+		
+		if(i > 100){
+			action = 17;;
+		}
 		
 		if(action <= 6){			//Attempting to get a utility card, i.e. silver or province
 			if(buyCard(action, p) != -1){
@@ -118,35 +127,17 @@ int main (int argc, char** argv) {
 				printf("Buying %s\n", card_name(k[action-7]));
 			}
 		}
+		i++;
 	}
 	
 	printf("END_TURN\n\n");
 	
+	printf ("Player %d: %d\n", active, scoreFor(active, p));
 	printf("Deck Size: %d\nDiscard Size: %d\n\n", p->deckCount[active], p->discardCount[active]);
 	
 	endTurn(p);
 	
-	/*
-    if (whoseTurn(p) == 0) {
-      if (money >= 8) {
-        printf("0: bought province\n"); 
-        buyCard(province, p);
-      }
-      else if (money >= 6) {
-        printf("0: bought gold\n"); 
-        buyCard(gold, p);
-      }
-      else if (money >= 3) {
-        printf("0: bought silver\n"); 
-        buyCard(silver, p);
-      }
-
-      printf("0: end turn\n");
-      endTurn(p);
-    }
-	*/
-	
-      //printf ("Player 0: %d\nPlayer 1: %d\n", scoreFor(0, p), scoreFor(1, p));
+      
 	    
   } // end of While
 

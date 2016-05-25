@@ -1,0 +1,589 @@
+487c487
+< Playing copper
+---
+> Playing curse
+491,492c491,492
+< Player 1: 4
+< Deck Size: 9
+---
+> Player 1: 3
+> Deck Size: 8
+506c506
+< Buying copper
+---
+> Buying smithy
+509,511c509,511
+< Player 1: 0
+< Deck Size: 1
+< Discard Size: 8
+---
+> Player 1: -1
+> Deck Size: 0
+> Discard Size: 9
+524c524
+< Buying smithy
+---
+> Buying curse
+527c527
+< Player 1: 4
+---
+> Player 1: 2
+533c533
+< Buying curse
+---
+> Buying copper
+536c536
+< Player 0: 0
+---
+> Player 0: 1
+541,542c541,542
+< Stop playing cards early
+< Buying smithy
+---
+> Playing sea_hag
+> Buying council_room
+545,546c545,546
+< Player 1: 3
+< Deck Size: 4
+---
+> Player 1: 1
+> Deck Size: 1
+550c550
+< Stop playing cards early
+---
+> Playing sea_hag
+554c554
+< Player 0: -1
+---
+> Player 0: 0
+559c559
+< Playing sea_hag
+---
+> Stop playing cards early
+564c564
+< Deck Size: 11
+---
+> Deck Size: 10
+568c568
+< Playing sea_hag
+---
+> Stop playing cards early
+573c573
+< Deck Size: 14
+---
+> Deck Size: 16
+577,578c577,578
+< Playing copper
+< Buying council_room
+---
+> Stop playing cards early
+> Buying cutpurse
+581,583c581,583
+< Player 1: 2
+< Deck Size: 3
+< Discard Size: 8
+---
+> Player 1: 0
+> Deck Size: 5
+> Discard Size: 7
+587c587
+< Buying copper
+---
+> Buying sea_hag
+591c591
+< Deck Size: 9
+---
+> Deck Size: 11
+596c596
+< Buying mine
+---
+> Buying gardens
+599,601c599,601
+< Player 1: -1
+< Deck Size: 10
+< Discard Size: 1
+---
+> Player 1: 1
+> Deck Size: 0
+> Discard Size: 13
+608,609c608,609
+< Player 0: -4
+< Deck Size: 4
+---
+> Player 0: 3
+> Deck Size: 6
+613c613,623
+< Playing sea_hag
+---
+> Playing copper
+> Buying copper
+> Buying copper
+> END_TURN
+> 
+> Player 1: -1
+> Deck Size: 9
+> Discard Size: 2
+> 
+> Player 0
+> Stop playing cards early
+617,619c627,638
+< Player 1: 2
+< Deck Size: 5
+< Discard Size: 6
+---
+> Player 0: 0
+> Deck Size: 0
+> Discard Size: 17
+> 
+> Player 1
+> Playing sea_hag
+> Buying copper
+> END_TURN
+> 
+> Player 1: -1
+> Deck Size: 4
+> Discard Size: 11
+622a642,650
+> Stop buying cards early
+> END_TURN
+> 
+> Player 0: 0
+> Deck Size: 18
+> Discard Size: 0
+> 
+> Player 1
+> Stop playing cards early
+626,627c654,655
+< Player 0: -1
+< Deck Size: 14
+---
+> Player 1: 0
+> Deck Size: 15
+629a658,666
+> Player 0
+> Playing sea_hag
+> Buying silver
+> END_TURN
+> 
+> Player 0: 4
+> Deck Size: 13
+> Discard Size: 6
+> 
+632c669
+< Buying tribute
+---
+> Buying salvager
+635,637c672,674
+< Player 1: 5
+< Deck Size: 0
+< Discard Size: 12
+---
+> Player 1: 1
+> Deck Size: 7
+> Discard Size: 8
+640c677
+< Playing sea_hag
+---
+> Stop playing cards early
+645,646c682,683
+< Deck Size: 9
+< Discard Size: 6
+---
+> Deck Size: 8
+> Discard Size: 11
+649c686
+< Playing mine
+---
+> Stop playing cards early
+653,654c690,709
+< Player 1: 2
+< Deck Size: 13
+---
+> Player 1: 0
+> Deck Size: 2
+> Discard Size: 14
+> 
+> Player 0
+> Stop playing cards early
+> Buying copper
+> END_TURN
+> 
+> Player 0: -1
+> Deck Size: 3
+> Discard Size: 17
+> 
+> Player 1
+> Playing curse
+> Buying copper
+> END_TURN
+> 
+> Player 1: -1
+> Deck Size: 16
+658a714,731
+> Buying embargo
+> END_TURN
+> 
+> Player 0: 0
+> Deck Size: 20
+> Discard Size: 1
+> 
+> Player 1
+> Stop playing cards early
+> Buying copper
+> END_TURN
+> 
+> Player 1: 0
+> Deck Size: 11
+> Discard Size: 6
+> 
+> Player 0
+> Stop playing cards early
+661a735,752
+> Player 0: 1
+> Deck Size: 15
+> Discard Size: 6
+> 
+> Player 1
+> Stop playing cards early
+> Buying embargo
+> END_TURN
+> 
+> Player 1: 2
+> Deck Size: 6
+> Discard Size: 12
+> 
+> Player 0
+> Stop playing cards early
+> Buying copper
+> END_TURN
+> 
+663,664c754,755
+< Deck Size: 4
+< Discard Size: 11
+---
+> Deck Size: 10
+> Discard Size: 12
+672,673c763,764
+< Deck Size: 8
+< Discard Size: 7
+---
+> Deck Size: 1
+> Discard Size: 18
+680,682c771,773
+< Player 0: -3
+< Deck Size: 15
+< Discard Size: 0
+---
+> Player 0: -1
+> Deck Size: 5
+> Discard Size: 17
+686c777
+< Buying tribute
+---
+> Buying silver
+690c781,817
+< Deck Size: 3
+---
+> Deck Size: 19
+> Discard Size: 1
+> 
+> Player 0
+> Stop playing cards early
+> Buying copper
+> END_TURN
+> 
+> Player 0: -1
+> Deck Size: 0
+> Discard Size: 23
+> 
+> Player 1
+> Stop playing cards early
+> Buying gardens
+> END_TURN
+> 
+> Player 1: 2
+> Deck Size: 14
+> Discard Size: 7
+> 
+> Player 0
+> Stop playing cards early
+> Buying sea_hag
+> END_TURN
+> 
+> Player 0: 0
+> Deck Size: 23
+> Discard Size: 1
+> 
+> Player 1
+> Stop playing cards early
+> Buying sea_hag
+> END_TURN
+> 
+> Player 1: 1
+> Deck Size: 9
+693a821,829
+> Stop playing cards early
+> Stop buying cards early
+> END_TURN
+> 
+> Player 0: -3
+> Deck Size: 18
+> Discard Size: 6
+> 
+> Player 1
+697a834,842
+> Player 1: -1
+> Deck Size: 4
+> Discard Size: 19
+> 
+> Player 0
+> Playing 
+> Buying copper
+> END_TURN
+> 
+699a845,871
+> Discard Size: 13
+> 
+> Player 1
+> Playing gold
+> Buying copper
+> END_TURN
+> 
+> Player 1: 1
+> Deck Size: 23
+> Discard Size: 1
+> 
+> Player 0
+> Stop playing cards early
+> Buying copper
+> END_TURN
+> 
+> Player 0: 2
+> Deck Size: 5
+> Discard Size: 18
+> 
+> Player 1
+> Stop playing cards early
+> Buying salvager
+> END_TURN
+> 
+> Player 1: 1
+> Deck Size: 18
+701a874,882
+> Player 0
+> Playing sea_hag
+> Stop buying cards early
+> END_TURN
+> 
+> Player 0: -1
+> Deck Size: 0
+> Discard Size: 23
+> 
+702a884,892
+> Playing embargo
+> Stop buying cards early
+> END_TURN
+> 
+> Player 1: 1
+> Deck Size: 10
+> Discard Size: 12
+> 
+> Player 0
+704c894,903
+< Buying gardens
+---
+> Stop buying cards early
+> END_TURN
+> 
+> Player 0: -1
+> Deck Size: 23
+> Discard Size: 0
+> 
+> Player 1
+> Stop playing cards early
+> Buying smithy
+708c907,925
+< Deck Size: 14
+---
+> Deck Size: 5
+> Discard Size: 17
+> 
+> Player 0
+> Playing sea_hag
+> Buying copper
+> END_TURN
+> 
+> Player 0: -3
+> Deck Size: 18
+> Discard Size: 6
+> 
+> Player 1
+> Stop playing cards early
+> Buying gardens
+> END_TURN
+> 
+> Player 1: -1
+> Deck Size: 20
+717c934
+< Deck Size: 5
+---
+> Deck Size: 13
+726c943
+< Deck Size: 9
+---
+> Deck Size: 15
+730a948,956
+> Buying copper
+> END_TURN
+> 
+> Player 0: 0
+> Deck Size: 8
+> Discard Size: 17
+> 
+> Player 1
+> Playing 
+734,736c960,971
+< Player 0: 1
+< Deck Size: 0
+< Discard Size: 16
+---
+> Player 1: 2
+> Deck Size: 10
+> Discard Size: 11
+> 
+> Player 0
+> Stop playing cards early
+> Buying silver
+> END_TURN
+> 
+> Player 0: -1
+> Deck Size: 3
+> Discard Size: 23
+740c975
+< Buying copper
+---
+> Buying gardens
+744,745c979,980
+< Deck Size: 4
+< Discard Size: 12
+---
+> Deck Size: 5
+> Discard Size: 15
+749c984
+< Buying embargo
+---
+> Buying cutpurse
+752,753c987,988
+< Player 0: -3
+< Deck Size: 16
+---
+> Player 0: 0
+> Deck Size: 26
+758c993
+< Buying silver
+---
+> Buying gold
+761,763c996,998
+< Player 1: 1
+< Deck Size: 16
+< Discard Size: 1
+---
+> Player 1: 5
+> Deck Size: 0
+> Discard Size: 21
+769a1005,1022
+> Player 0: -2
+> Deck Size: 21
+> Discard Size: 7
+> 
+> Player 1
+> Stop playing cards early
+> Stop buying cards early
+> END_TURN
+> 
+> Player 1: 1
+> Deck Size: 21
+> Discard Size: 0
+> 
+> Player 0
+> Stop playing cards early
+> Stop buying cards early
+> END_TURN
+> 
+770a1024,1041
+> Deck Size: 16
+> Discard Size: 12
+> 
+> Player 1
+> Stop playing cards early
+> Buying duchy
+> END_TURN
+> 
+> Player 1: 4
+> Deck Size: 16
+> Discard Size: 6
+> 
+> Player 0
+> Stop playing cards early
+> Stop buying cards early
+> END_TURN
+> 
+> Player 0: -2
+772c1043
+< Discard Size: 7
+---
+> Discard Size: 17
+775,777c1046,1047
+< Playing estate
+< Buying embargo
+< Buying embargo
+---
+> Stop playing cards early
+> Stop buying cards early
+780,782c1050,1070
+< Player 1: 2
+< Deck Size: 7
+< Discard Size: 8
+---
+> Player 1: 5
+> Deck Size: 11
+> Discard Size: 11
+> 
+> Player 0
+> Stop playing cards early
+> Buying silver
+> END_TURN
+> 
+> Player 0: 0
+> Deck Size: 6
+> Discard Size: 23
+> 
+> Player 1
+> Playing sea_hag
+> Buying smithy
+> END_TURN
+> 
+> Player 1: 6
+> Deck Size: 6
+> Discard Size: 17
+790,791c1078,1088
+< Deck Size: 5
+< Discard Size: 13
+---
+> Deck Size: 27
+> Discard Size: 1
+> 
+> Player 1
+> Stop playing cards early
+> Buying embargo
+> END_TURN
+> 
+> Player 1: 6
+> Deck Size: 1
+> Discard Size: 23
+794,795c1091,1092
+< Player 0: 1
+< Player 1: 1
+---
+> Player 0: -3
+> Player 1: 5

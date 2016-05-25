@@ -34,8 +34,8 @@ random: dominion.o interface.o randomtest.c randomtestcard1.c randomtestcard2.c 
 
 tester: dominion.o randomtester.c
 	gcc -o testdominion randomtester.c -g dominion.o rngs.o $(CFLAGS)
-	./testdominion > temp
-	testdominion 42 > testdominion.out
+	testdominion 42 > test.tmp
+	gcov dominion.c -f > testdominion.out
 	
 all: playdom player
 

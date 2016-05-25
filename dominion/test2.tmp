@@ -1,0 +1,1092 @@
+smithy adventurer council_room tribute sea_hag embargo gardens cutpurse salvager mine 
+Players: 2
+
+Starting game.
+Player 0
+Stop playing cards early
+Stop buying cards early
+END_TURN
+
+Player 0: 2
+Deck Size: 5
+Discard Size: 0
+
+Player 1
+Stop playing cards early
+Stop buying cards early
+END_TURN
+
+Player 1: 2
+Deck Size: 5
+Discard Size: 0
+
+Player 0
+Stop playing cards early
+Buying sea_hag
+END_TURN
+
+Player 0: 4
+Deck Size: 0
+Discard Size: 6
+
+Player 1
+Stop playing cards early
+Buying copper
+END_TURN
+
+Player 1: 4
+Deck Size: 0
+Discard Size: 6
+
+Player 0
+Stop playing cards early
+Buying estate
+END_TURN
+
+Player 0: 3
+Deck Size: 6
+Discard Size: 1
+
+Player 1
+Stop playing cards early
+Buying curse
+END_TURN
+
+Player 1: 1
+Deck Size: 6
+Discard Size: 1
+
+Player 0
+Playing sea_hag
+Stop buying cards early
+END_TURN
+
+Player 0: 5
+Deck Size: 1
+Discard Size: 6
+
+Player 1
+Stop playing cards early
+Buying tribute
+END_TURN
+
+Player 1: 1
+Deck Size: 5
+Discard Size: 1
+
+Player 0
+Stop playing cards early
+Buying sea_hag
+END_TURN
+
+Player 0: 1
+Deck Size: 7
+Discard Size: 1
+
+Player 1
+Stop playing cards early
+Buying copper
+END_TURN
+
+Player 1: 2
+Deck Size: 0
+Discard Size: 7
+
+Player 0
+Playing sea_hag
+Stop buying cards early
+END_TURN
+
+Player 0: 6
+Deck Size: 2
+Discard Size: 6
+
+Player 1
+Playing tribute
+Playing tribute
+Playing tribute
+Playing tribute
+Stop playing cards early
+Buying gold
+END_TURN
+
+Player 1: 2
+Deck Size: 2
+Discard Size: 1
+
+Player 0
+Stop playing cards early
+Stop buying cards early
+END_TURN
+
+Player 0: 2
+Deck Size: 5
+Discard Size: 0
+
+Player 1
+Stop playing cards early
+Buying curse
+END_TURN
+
+Player 1: 0
+Deck Size: 9
+Discard Size: 1
+
+Player 0
+Playing sea_hag
+Buying curse
+END_TURN
+
+Player 0: 6
+Deck Size: 0
+Discard Size: 6
+
+Player 1
+Stop playing cards early
+Buying estate
+END_TURN
+
+Player 1: 3
+Deck Size: 1
+Discard Size: 8
+
+Player 0
+Playing sea_hag
+Stop buying cards early
+END_TURN
+
+Player 0: 1
+Deck Size: 6
+Discard Size: 0
+
+Player 1
+Stop playing cards early
+Buying cutpurse
+END_TURN
+
+Player 1: 2
+Deck Size: 9
+Discard Size: 1
+
+Player 0
+Stop playing cards early
+Stop buying cards early
+END_TURN
+
+Player 0: 3
+Deck Size: 1
+Discard Size: 5
+
+Player 1
+Stop playing cards early
+Buying estate
+END_TURN
+
+Player 1: 7
+Deck Size: 4
+Discard Size: 7
+
+Player 0
+Stop playing cards early
+Buying copper
+END_TURN
+
+Player 0: 1
+Deck Size: 6
+Discard Size: 1
+
+Player 1
+Stop playing cards early
+Buying sea_hag
+END_TURN
+
+Player 1: 0
+Deck Size: 11
+Discard Size: 1
+
+Player 0
+Stop playing cards early
+Buying copper
+END_TURN
+
+Player 0: 5
+Deck Size: 1
+Discard Size: 7
+
+Player 1
+Playing curse
+Buying copper
+END_TURN
+
+Player 1: 4
+Deck Size: 6
+Discard Size: 7
+
+Player 0
+Stop playing cards early
+Buying copper
+END_TURN
+
+Player 0: 1
+Deck Size: 8
+Discard Size: 1
+
+Player 1
+Stop playing cards early
+Buying curse
+END_TURN
+
+Player 1: 9
+Deck Size: 1
+Discard Size: 12
+
+Player 0
+Stop playing cards early
+Buying estate
+END_TURN
+
+Player 0: 6
+Deck Size: 3
+Discard Size: 7
+
+Player 1
+Stop playing cards early
+Buying smithy
+END_TURN
+
+Player 1: 1
+Deck Size: 13
+Discard Size: 1
+
+Player 0
+Stop playing cards early
+Buying copper
+END_TURN
+
+Player 0: 3
+Deck Size: 10
+Discard Size: 1
+
+Player 1
+Playing sea_hag
+Buying copper
+END_TURN
+
+Player 1: 3
+Deck Size: 8
+Discard Size: 7
+
+Player 0
+Playing sea_hag
+Buying estate
+END_TURN
+
+Player 0: 4
+Deck Size: 2
+Discard Size: 8
+
+Player 1
+Stop playing cards early
+Stop buying cards early
+END_TURN
+
+Player 1: 3
+Deck Size: 0
+Discard Size: 13
+
+Player 0
+Stop playing cards early
+Buying copper
+END_TURN
+
+Player 0: 2
+Deck Size: 10
+Discard Size: 1
+
+Player 1
+Stop playing cards early
+Buying embargo
+END_TURN
+
+Player 1: -1
+Deck Size: 13
+Discard Size: 1
+
+Player 0
+Playing sea_hag
+Stop buying cards early
+END_TURN
+
+Player 0: 4
+Deck Size: 5
+Discard Size: 6
+
+Player 1
+Playing sea_hag
+Buying embargo
+END_TURN
+
+Player 1: 2
+Deck Size: 5
+Discard Size: 8
+
+Player 0
+Stop playing cards early
+Buying estate
+END_TURN
+
+Player 0: 3
+Deck Size: 9
+Discard Size: 1
+
+Player 1
+Playing sea_hag
+Stop buying cards early
+END_TURN
+
+Player 1: 2
+Deck Size: 0
+Discard Size: 13
+
+Player 0
+Playing sea_hag
+Buying copper
+END_TURN
+
+Player 0: 2
+Deck Size: 1
+Discard Size: 8
+
+Player 1
+Playing sea_hag
+Buying smithy
+END_TURN
+
+Player 1: 0
+Deck Size: 14
+Discard Size: 1
+
+Player 0
+Playing sea_hag
+Buying estate
+END_TURN
+
+Player 0: 2
+Deck Size: 9
+Discard Size: 1
+
+Player 1
+Playing curse
+Stop buying cards early
+END_TURN
+
+Player 1: 0
+Deck Size: 6
+Discard Size: 7
+
+Player 0
+Stop playing cards early
+Buying curse
+END_TURN
+
+Player 0: 4
+Deck Size: 4
+Discard Size: 7
+
+Player 1
+Stop playing cards early
+Stop buying cards early
+END_TURN
+
+Player 1: 2
+Deck Size: 1
+Discard Size: 11
+
+Player 0
+Stop playing cards early
+Buying estate
+END_TURN
+
+Player 0: 1
+Deck Size: 11
+Discard Size: 1
+
+Player 1
+Stop playing cards early
+Buying curse
+END_TURN
+
+Player 1: 2
+Deck Size: 12
+Discard Size: 1
+
+Player 0
+Stop playing cards early
+Buying copper
+END_TURN
+
+Player 0: 5
+Deck Size: 6
+Discard Size: 7
+
+Player 1
+Stop playing cards early
+Buying embargo
+END_TURN
+
+Player 1: 0
+Deck Size: 7
+Discard Size: 7
+
+Player 0
+Playing sea_hag
+Stop buying cards early
+END_TURN
+
+Player 0: 6
+Deck Size: 1
+Discard Size: 12
+
+Player 1
+Playing sea_hag
+Stop buying cards early
+END_TURN
+
+Player 1: -1
+Deck Size: 12
+Discard Size: 0
+
+Player 0
+Stop playing cards early
+Buying curse
+END_TURN
+
+Player 0: -2
+Deck Size: 13
+Discard Size: 1
+
+Player 1
+Stop playing cards early
+Buying sea_hag
+END_TURN
+
+Player 1: 0
+Deck Size: 7
+Discard Size: 6
+
+Player 0
+Playing sea_hag
+Stop buying cards early
+END_TURN
+
+Player 0: 2
+Deck Size: 8
+Discard Size: 6
+
+Player 1
+Playing curse
+Stop buying cards early
+END_TURN
+
+Player 1: 3
+Deck Size: 8
+Discard Size: 0
+
+Player 0
+Playing sea_hag
+Buying curse
+END_TURN
+
+Player 0: 5
+Deck Size: 3
+Discard Size: 12
+
+Player 1
+Playing sea_hag
+Buying smithy
+END_TURN
+
+Player 1: -1
+Deck Size: 0
+Discard Size: 9
+
+Player 0
+Stop playing cards early
+Buying curse
+END_TURN
+
+Player 0: 2
+Deck Size: 13
+Discard Size: 1
+
+Player 1
+Stop playing cards early
+Buying curse
+END_TURN
+
+Player 1: 2
+Deck Size: 9
+Discard Size: 1
+
+Player 0
+Stop playing cards early
+Buying copper
+END_TURN
+
+Player 0: 1
+Deck Size: 8
+Discard Size: 7
+
+Player 1
+Playing sea_hag
+Buying council_room
+END_TURN
+
+Player 1: 1
+Deck Size: 1
+Discard Size: 7
+
+Player 0
+Playing sea_hag
+Buying copper
+END_TURN
+
+Player 0: 0
+Deck Size: 3
+Discard Size: 13
+
+Player 1
+Stop playing cards early
+Buying copper
+END_TURN
+
+Player 1: 1
+Deck Size: 10
+Discard Size: 1
+
+Player 0
+Stop playing cards early
+Buying copper
+END_TURN
+
+Player 0: 1
+Deck Size: 16
+Discard Size: 1
+
+Player 1
+Stop playing cards early
+Buying cutpurse
+END_TURN
+
+Player 1: 0
+Deck Size: 5
+Discard Size: 7
+
+Player 0
+Stop playing cards early
+Buying sea_hag
+END_TURN
+
+Player 0: 0
+Deck Size: 11
+Discard Size: 7
+
+Player 1
+Stop playing cards early
+Buying gardens
+END_TURN
+
+Player 1: 1
+Deck Size: 0
+Discard Size: 13
+
+Player 0
+Stop playing cards early
+Stop buying cards early
+END_TURN
+
+Player 0: 3
+Deck Size: 6
+Discard Size: 12
+
+Player 1
+Playing copper
+Buying copper
+Buying copper
+END_TURN
+
+Player 1: -1
+Deck Size: 9
+Discard Size: 2
+
+Player 0
+Stop playing cards early
+Stop buying cards early
+END_TURN
+
+Player 0: 0
+Deck Size: 0
+Discard Size: 17
+
+Player 1
+Playing sea_hag
+Buying copper
+END_TURN
+
+Player 1: -1
+Deck Size: 4
+Discard Size: 11
+
+Player 0
+Stop playing cards early
+Stop buying cards early
+END_TURN
+
+Player 0: 0
+Deck Size: 18
+Discard Size: 0
+
+Player 1
+Stop playing cards early
+Buying embargo
+END_TURN
+
+Player 1: 0
+Deck Size: 15
+Discard Size: 1
+
+Player 0
+Playing sea_hag
+Buying silver
+END_TURN
+
+Player 0: 4
+Deck Size: 13
+Discard Size: 6
+
+Player 1
+Stop playing cards early
+Buying salvager
+END_TURN
+
+Player 1: 1
+Deck Size: 7
+Discard Size: 8
+
+Player 0
+Stop playing cards early
+Stop buying cards early
+END_TURN
+
+Player 0: -1
+Deck Size: 8
+Discard Size: 11
+
+Player 1
+Stop playing cards early
+Buying copper
+END_TURN
+
+Player 1: 0
+Deck Size: 2
+Discard Size: 14
+
+Player 0
+Stop playing cards early
+Buying copper
+END_TURN
+
+Player 0: -1
+Deck Size: 3
+Discard Size: 17
+
+Player 1
+Playing curse
+Buying copper
+END_TURN
+
+Player 1: -1
+Deck Size: 16
+Discard Size: 1
+
+Player 0
+Stop playing cards early
+Buying embargo
+END_TURN
+
+Player 0: 0
+Deck Size: 20
+Discard Size: 1
+
+Player 1
+Stop playing cards early
+Buying copper
+END_TURN
+
+Player 1: 0
+Deck Size: 11
+Discard Size: 6
+
+Player 0
+Stop playing cards early
+Stop buying cards early
+END_TURN
+
+Player 0: 1
+Deck Size: 15
+Discard Size: 6
+
+Player 1
+Stop playing cards early
+Buying embargo
+END_TURN
+
+Player 1: 2
+Deck Size: 6
+Discard Size: 12
+
+Player 0
+Stop playing cards early
+Buying copper
+END_TURN
+
+Player 0: 0
+Deck Size: 10
+Discard Size: 12
+
+Player 1
+Stop playing cards early
+Buying embargo
+END_TURN
+
+Player 1: 2
+Deck Size: 1
+Discard Size: 18
+
+Player 0
+Stop playing cards early
+Stop buying cards early
+END_TURN
+
+Player 0: -1
+Deck Size: 5
+Discard Size: 17
+
+Player 1
+Stop playing cards early
+Buying silver
+END_TURN
+
+Player 1: 2
+Deck Size: 19
+Discard Size: 1
+
+Player 0
+Stop playing cards early
+Buying copper
+END_TURN
+
+Player 0: -1
+Deck Size: 0
+Discard Size: 23
+
+Player 1
+Stop playing cards early
+Buying gardens
+END_TURN
+
+Player 1: 2
+Deck Size: 14
+Discard Size: 7
+
+Player 0
+Stop playing cards early
+Buying sea_hag
+END_TURN
+
+Player 0: 0
+Deck Size: 23
+Discard Size: 1
+
+Player 1
+Stop playing cards early
+Buying sea_hag
+END_TURN
+
+Player 1: 1
+Deck Size: 9
+Discard Size: 13
+
+Player 0
+Stop playing cards early
+Stop buying cards early
+END_TURN
+
+Player 0: -3
+Deck Size: 18
+Discard Size: 6
+
+Player 1
+Playing sea_hag
+Buying embargo
+END_TURN
+
+Player 1: -1
+Deck Size: 4
+Discard Size: 19
+
+Player 0
+Playing 
+Buying copper
+END_TURN
+
+Player 0: -1
+Deck Size: 10
+Discard Size: 13
+
+Player 1
+Playing gold
+Buying copper
+END_TURN
+
+Player 1: 1
+Deck Size: 23
+Discard Size: 1
+
+Player 0
+Stop playing cards early
+Buying copper
+END_TURN
+
+Player 0: 2
+Deck Size: 5
+Discard Size: 18
+
+Player 1
+Stop playing cards early
+Buying salvager
+END_TURN
+
+Player 1: 1
+Deck Size: 18
+Discard Size: 6
+
+Player 0
+Playing sea_hag
+Stop buying cards early
+END_TURN
+
+Player 0: -1
+Deck Size: 0
+Discard Size: 23
+
+Player 1
+Playing embargo
+Stop buying cards early
+END_TURN
+
+Player 1: 1
+Deck Size: 10
+Discard Size: 12
+
+Player 0
+Stop playing cards early
+Stop buying cards early
+END_TURN
+
+Player 0: -1
+Deck Size: 23
+Discard Size: 0
+
+Player 1
+Stop playing cards early
+Buying smithy
+END_TURN
+
+Player 1: 0
+Deck Size: 5
+Discard Size: 17
+
+Player 0
+Playing sea_hag
+Buying copper
+END_TURN
+
+Player 0: -3
+Deck Size: 18
+Discard Size: 6
+
+Player 1
+Stop playing cards early
+Buying gardens
+END_TURN
+
+Player 1: -1
+Deck Size: 20
+Discard Size: 1
+
+Player 0
+Stop playing cards early
+Stop buying cards early
+END_TURN
+
+Player 0: -1
+Deck Size: 13
+Discard Size: 11
+
+Player 1
+Stop playing cards early
+Stop buying cards early
+END_TURN
+
+Player 1: 1
+Deck Size: 15
+Discard Size: 6
+
+Player 0
+Stop playing cards early
+Buying copper
+END_TURN
+
+Player 0: 0
+Deck Size: 8
+Discard Size: 17
+
+Player 1
+Playing 
+Stop buying cards early
+END_TURN
+
+Player 1: 2
+Deck Size: 10
+Discard Size: 11
+
+Player 0
+Stop playing cards early
+Buying silver
+END_TURN
+
+Player 0: -1
+Deck Size: 3
+Discard Size: 23
+
+Player 1
+Stop playing cards early
+Buying gardens
+END_TURN
+
+Player 1: 3
+Deck Size: 5
+Discard Size: 15
+
+Player 0
+Stop playing cards early
+Buying cutpurse
+END_TURN
+
+Player 0: 0
+Deck Size: 26
+Discard Size: 1
+
+Player 1
+Stop playing cards early
+Buying gold
+END_TURN
+
+Player 1: 5
+Deck Size: 0
+Discard Size: 21
+
+Player 0
+Stop playing cards early
+Buying copper
+END_TURN
+
+Player 0: -2
+Deck Size: 21
+Discard Size: 7
+
+Player 1
+Stop playing cards early
+Stop buying cards early
+END_TURN
+
+Player 1: 1
+Deck Size: 21
+Discard Size: 0
+
+Player 0
+Stop playing cards early
+Stop buying cards early
+END_TURN
+
+Player 0: -1
+Deck Size: 16
+Discard Size: 12
+
+Player 1
+Stop playing cards early
+Buying duchy
+END_TURN
+
+Player 1: 4
+Deck Size: 16
+Discard Size: 6
+
+Player 0
+Stop playing cards early
+Stop buying cards early
+END_TURN
+
+Player 0: -2
+Deck Size: 11
+Discard Size: 17
+
+Player 1
+Stop playing cards early
+Stop buying cards early
+END_TURN
+
+Player 1: 5
+Deck Size: 11
+Discard Size: 11
+
+Player 0
+Stop playing cards early
+Buying silver
+END_TURN
+
+Player 0: 0
+Deck Size: 6
+Discard Size: 23
+
+Player 1
+Playing sea_hag
+Buying smithy
+END_TURN
+
+Player 1: 6
+Deck Size: 6
+Discard Size: 17
+
+Player 0
+Stop playing cards early
+Buying embargo
+END_TURN
+
+Player 0: -1
+Deck Size: 27
+Discard Size: 1
+
+Player 1
+Stop playing cards early
+Buying embargo
+END_TURN
+
+Player 1: 6
+Deck Size: 1
+Discard Size: 23
+
+Finished game.
+Player 0: -3
+Player 1: 5
