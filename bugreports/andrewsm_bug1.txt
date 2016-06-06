@@ -1,0 +1,8 @@
+Function: card_village
+
+Removes 2 actions rather than adding 2 actions when played.
+Moderate priority and severity, does not cause the program to crash or anything, but does meaningfully impact the game when played.
+
+Changes:	//Modift '-' to '+'
+-	state->numActions = state->numActions - 2;
++	state->numActions = state->numActions + 2;

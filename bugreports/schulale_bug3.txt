@@ -1,0 +1,13 @@
+Function: council_room_test
+
+Adds 5 cards to hand, rather than 4.
+Moderate priority and severity, does not cause the program to crash or anything, but does meaningfully impact the game when played.
+
+Changes:	//Change for loop from '5' to '4'
+-	for (i = 0; i < 5; i++) {
+-	drawCard(currentPlayer, state);
+-	}
+
++	for (i = 0; i < 4; i++) {
++	drawCard(currentPlayer, state);
++	}

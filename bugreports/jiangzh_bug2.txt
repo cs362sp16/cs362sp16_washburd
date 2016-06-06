@@ -1,0 +1,12 @@
+Function: smithy_function
+
+Only adds 1 card to hand, rather than 3.
+Moderate priority and severity, does not cause the program to crash or anything, but does meaningfully impact the game when played.
+
+Changes:	//Add curly braces to the for loop
+-	for(i=0; i<3; i++)
+-	drawCard(currentPlayer, state);
+
++	for(i=0; i<3; i++){
++	drawCard(currentPlayer, state);
++	}
