@@ -2,13 +2,21 @@
 #include "interface.h"
 #include <stdio.h>
 
-int main() {
+int main(int argc, char** argv) {
   struct gameState g;
 
   int k[10] = {smithy,adventurer,gardens,embargo,cutpurse,mine,ambassador,
 	       outpost,baron,tribute};
 
-  initializeGame(2, k, 5, &g);
+  int seed;
+  if(argc == 1){
+	  seed = atoi(argv[1]);
+  }
+  else{
+	  seed = 42;
+  }
+  
+  initializeGame(2, k, seed, &g);
   
   addCardToHand(0, 13, &g);
   playCard(5, 0, 0, 0, &g);

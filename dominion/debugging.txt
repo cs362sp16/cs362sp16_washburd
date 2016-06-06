@@ -1,0 +1,9 @@
+Using the bug report from github user 'rotithoj', I was directed to examine my smithy_card function.  As stated in his report, smithy_card was only running for 2 card draws, but I still had to ensure his report's accuracy before I haphazardly attempt to apply patches to my code.
+
+As a result, I went back to my cardtest1.c which I wrote long ago, which was specifically made to test what happens when a Smithy is played from hand.  Sure enough, I consistently got a result of "FAILURE: Incorrect Smithy card draw" from every seed I put in.  The hand only had 7 cards in it rather than the expected 8.
+
+From applying Agans' second principle, 'make it fail', I gained 100% certainty that the system was misbehaving, and from there I knew I would be able to measurably make the system better or worse.  By changing the for loop in smithy_card to run 3 times, I was able to make cardtest1.c pass.  
+
+I even went a bit further and reapplied the second rule again, making it loop 4 times.  It failed again, giving me confidence that changing the loop to run 3 times was the most appropriate course of action.
+
+For your convenience, I have included the bug report I recieved from rotithoj, named washburd_bugreport.txt in my dominion directory for you to review.  cardtest1.c is also here.
