@@ -1,0 +1,5 @@
+I made use of a tool called Milu, found at http://github.com/yuejia/Milu to make mutations of my code 10 times.  You can find these in the 'mutation' folder.
+
+I tested these mutations against my previously-made testdominion.c with a seed of 42 (which I know works), and in 9 cases out of 10 it caused the program to crash.  The 1 case that didn't crash I let run for a while, hoping it would either work through or crash, but it became clear it was trapped in an infinite loop.
+
+Overall, mutation testing seems very unreliable and I would not reccomend it for a situation such as this.  Perhaps if the mutation-making algorithm were smarter or knew the non-vital points it could touch, this would not be an issue.  However, as-is mutation seems entirely unreliable for what I am attempting to accomplish through these tests.
